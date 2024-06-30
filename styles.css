@@ -1,0 +1,15 @@
+.my-color {
+    color: var(--bs-black);
+    background-color: var(--bs-gray-500);
+}
+
+.icon-circle {
+    width: 40px;
+    height: 40px;
+    border: 1px solid black;
+    border-radius: 50%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background-color: #ccc
+}
